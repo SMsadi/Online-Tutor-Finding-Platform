@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa; 
+    padding-top: 50px;
+}
+.container {
+    max-width: 180px;
+    margin: 50px auto;
+}
+h1 {
+
+    text-align: center;
+    margin-bottom: 30px;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #43b0ce;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+label {
+    font-weight: bold;
+}
+button[type="submit"] {
+    width: 30%;
+}
+#error_message {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+h3, h4 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+    color: #58a3ee;
+}

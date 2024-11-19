@@ -1,0 +1,16 @@
+body {
+    background-image: url('../../assets/pic11.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* Cover ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Fixes the background image so it doesn't scroll with content */
+    background-position: right top;
+}
+
+h1 {
+    
+    text-align: center;
+    margin-top: 100px; /* Adjust the spacing as needed */
+}
+/* Add styles for other elements as needed */
+/* For example: */
+

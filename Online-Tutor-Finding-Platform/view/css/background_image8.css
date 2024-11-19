@@ -1,0 +1,11 @@
+body {
+    background-image: url('../../assets/pic8.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* Cover ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Fixes the background image so it doesn't scroll with content */
+    /* Optionally, you can add other background properties like background-position, background-color, etc. */
+}
+
+/* Add styles for other elements as needed */
+/* For example: */
+
